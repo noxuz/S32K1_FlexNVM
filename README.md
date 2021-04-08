@@ -1,0 +1,1 @@
+# S32K1_FlexNVM
