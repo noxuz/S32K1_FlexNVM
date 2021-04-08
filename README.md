@@ -5,6 +5,6 @@ boot_counter is incremented in each power-up or reset and conserved in non-volat
 
 Set the following debug configurations within S32DS
 
-![DebugConfigs1](Debug_configs1.png){:height="50%" width="50%"}
+![DebugConfigs1](Debug_configs1.png)
 
-![DebugConfigs2](Debug_configs2.png){:height="50%" width="50%"}
+![DebugConfigs2](Debug_configs2.png)
